@@ -61,6 +61,3 @@ Para fins didáticos e de referência ao projeto, o arquivo armazenado neste rep
     * `matplotlib` e `seaborn`: Para visualização de dados.
 
     * `scikit-learn`: Para pré-processamento (`MinMaxScaler`, `StandardScaler`, `train_test_split`).
-
-## 🔗 Link do Notebook para Visualização no Google Colab: 
-[https://colab.research.google.com/github/rodrigobsouza17/Analise_de_Dados/blob/MVP/MVP_Aná1lise_de_dados_2025_V4.ipynb]
